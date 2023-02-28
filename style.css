@@ -259,17 +259,6 @@ input:checked + .slider::before {
   margin-right: 5px;
 }
 
-/* Media Query: Tablet or Smaller  */
-@media screen and (max-width: 1000px) {
-  .container {
-    background-position: center center;
-    background-size: cover;
-  }
-
-  button {
-    box-shadow: 5px 5px 30px 20px rgba(0, 0, 0, 0.5);
-  }
-}
 
 
 
